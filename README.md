@@ -3,7 +3,8 @@
 Welcome to the repository for my personal portfolio website! This project serves as a digital business card and a showcase of my web development journey, projects, and technical skills.
 
 ## 🌐 Live Demo
-You can view the live website here: [Link to your site, e.g., GitHub Pages]
+You can view the live website here: connect later or it can be react portfolio will be live
+
 
 ## ✨ Features
 * **Fully Responsive Design:** Optimized for desktops, tablets, and mobile devices.
